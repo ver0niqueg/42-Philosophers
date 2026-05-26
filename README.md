@@ -1,4 +1,4 @@
-# Philo 🍽️
+# Philosophers 🍽️
 
 Philo is a threading project that simulates the famous "Dining Philosophers" problem. It demonstrates fundamental concepts in concurrent programming, mutex synchronization, thread management, and deadlock prevention. The goal is to prevent philosophers from starving while respecting the constraint that each fork can only be used by one philosopher at a time.
 
@@ -69,8 +69,8 @@ Philo is a threading project that simulates the famous "Dining Philosophers" pro
 
 Clone the repository:
 ```bash
-git clone <repository-url>
-cd PHILO
+git clone git@github.com:ver0niqueg/42-Philosophers.git
+cd 42-Philosophers
 ```
 
 Compile:
