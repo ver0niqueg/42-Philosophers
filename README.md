@@ -69,8 +69,8 @@ Philo is a threading project that simulates the famous "Dining Philosophers" pro
 
 Clone the repository:
 ```bash
-git clone <repository-url>
-cd PHILO
+git clone git@github.com:ver0niqueg/42-Philosophers.git
+cd 42-Philosophers
 ```
 
 Compile:
