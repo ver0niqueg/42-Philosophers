@@ -60,7 +60,3 @@ clean:
 fclean: clean
 	@$(RM) $(NAME)
 	@printf "$(RED)[FCLEAN]$(DEFAULT) executable removed\n"
-
-re: fclean all
-
-.PHONY: all clean fclean re
